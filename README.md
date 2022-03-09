@@ -23,6 +23,13 @@ Arkanoid is a block breaker video game. Its plot involves the starship Arkanoid 
 - [x] Player Move With right & d to The RIGHT
 ## DEMO :
 https://user-images.githubusercontent.com/91725214/156426815-e00343e2-1168-4d7b-af55-9b2ffc049f7f.mp4
+# Flappy Bird 
+
+![download](https://user-images.githubusercontent.com/91725214/157507928-89f85910-8ef5-4414-be13-faaa2c43a034.jpg)
+#### 
+is an arcade-style game in which the player controls the bird Faby, which moves persistently to the right. The player is tasked with navigating Faby through pairs of pipes that have equally sized gaps placed at random heights. Faby automatically descends and only ascends when the player taps the touchscreen. Each successful pass through a pair of pipes awards the player one point. Colliding with a pipe or the ground ends the gameplay.
+
+
 
 
 
